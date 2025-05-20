@@ -32,7 +32,7 @@ This project creates a digital clock that:
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/digital-clock.git
+   git clone https://github.com/himanshukumar-xp/digital-clock.git
 
 
 Author : Himanshu Kumar
