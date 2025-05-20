@@ -16,5 +16,24 @@ This project creates a digital clock that:
 
 ## 📁 Project Structure
 
+## 🧱 Technologies Used
+
+- **HTML** – Markup for the page structure
+- **CSS** – Styling for layout and appearance
+- **JavaScript** – Logic to fetch and display the current time
+
+## 🔧 How It Works
+
+1. **HTML** sets up a container to display the clock.
+2. **CSS** styles the container to make the clock visually appealing.
+3. **JavaScript** uses `Date()` and `setInterval()` to get and update the time every second.
+
+## 📦 Installation
+
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/yourusername/digital-clock.git
+
+
 Author : Himanshu Kumar
 
