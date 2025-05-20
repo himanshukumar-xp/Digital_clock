@@ -16,3 +16,5 @@ This project creates a digital clock that:
 
 ## 📁 Project Structure
 
+Author : Himanshu Kumar
+
